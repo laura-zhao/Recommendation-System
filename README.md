@@ -1,0 +1,1 @@
+This project implement a movie recommendation system using a series of algorithms including item-based collaborative filtering, user-based collaborative filtering, SVD, Restricted Boltzmann Machines(RBM’s) and so on. Also implemented a framework for evaluating different algorithms
